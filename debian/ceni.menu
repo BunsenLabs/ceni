@@ -1,0 +1,7 @@
+?package(ceni): \
+	needs="text" \
+	section="Applications/System/Administration" \
+	hints="Config" \
+	title="Ceni" \
+	icon="/usr/share/pixmaps/ceni.xpm" \
+	command="su-to-root -c /usr/bin/Ceni"
